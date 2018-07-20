@@ -5,7 +5,7 @@ TRAID coin is a PoW/PoS/Masternode hybrid cryptocurrency built on the Scrypt has
 * Block explorer: https://explorer.traid.tv
 * Whitepaper: https://www.traid.tv/Traid_Whitepaper.pdf
 * Bitcointalk ANN: 
-
+## Coin Specs
 <table>
   <tr>
     <td colspan="2">Algo</td>
@@ -18,5 +18,9 @@ TRAID coin is a PoW/PoS/Masternode hybrid cryptocurrency built on the Scrypt has
   <tr>
     <td colspan="2">Max Coin Supply</td>
     <td colspan="2">252 000 000</td>
+  </tr>
+    <tr>
+    <td colspan="2">Difficulty Retargeting	</td>
+    <td colspan="2">Every Block</td>
   </tr>
 </table>
