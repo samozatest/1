@@ -2,8 +2,8 @@
 TRAID coin is a PoW/PoS/Masternode hybrid cryptocurrency built on the Scrypt hashing algorithm. Block rewards are split evenly between PoW and PoS. 2/3 of PoS rewards are allocated to Masternodes. TRAID coin will be used as the main payment method on the upcoming Traid platform.
 ## Resources
 * Official site: https://www.traid.tv
-* Block explorer: https://explorer.traid.tv
 * Official pool: https://pool.traid.tv
+* Block explorer: https://explorer.traid.tv
 * Whitepaper: https://www.traid.tv/Traid_Whitepaper.pdf
 * Twitter: https://twitter.com/traid_platform
 * Discord: https://discord.gg/tEUt4aX
