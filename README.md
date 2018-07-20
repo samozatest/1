@@ -39,5 +39,5 @@ TRAID coin is a PoW/PoS/Masternode hybrid cryptocurrency built on the Scrypt has
 | ------------ | ------------ | ------------ | ------------ |
 |  1 | 25 200 000 TRAID | 0 TRAID| 0 TRAID|
 |  2-100 | 0  TRAID|  0 TRAID| 0  TRAID|
-|  101-500 | 2 TRAID |  1 TRAID| 1 TRAID|
-|  501~3 780 500 | 60 TRAID|  40 TRAID| 20  TRAID|
+|  101-1000 | 2 TRAID |  1 TRAID| 1 TRAID|
+|  1001~3 780 500 | 60 TRAID|  40 TRAID| 20  TRAID|
