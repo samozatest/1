@@ -3,6 +3,7 @@ TRAID coin is a PoW/PoS/Masternode hybrid cryptocurrency built on the Scrypt has
 ## Resources
 * Official site: https://www.traid.tv
 * Block explorer: https://explorer.traid.tv
+* Official pool: https://pool.traid.tv
 * Whitepaper: https://www.traid.tv/Traid_Whitepaper.pdf
 * Twitter: https://twitter.com/traid_platform
 * Discord: https://discord.gg/tEUt4aX
