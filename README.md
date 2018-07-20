@@ -24,8 +24,12 @@ TRAID coin is a PoW/PoS/Masternode hybrid cryptocurrency built on the Scrypt has
     <td colspan="2">252 000 000</td>
   </tr>
     <tr>
-    <td colspan="2">Difficulty Retargeting	</td>
+    <td colspan="2">Difficulty Retargeting</td>
     <td colspan="2">Every Block</td>
+  </tr>
+  <tr>
+    <td colspan="2">Masternode Collateral</td>
+    <td colspan="2">60 000 TRAID</td>
   </tr>
 </table>
 
