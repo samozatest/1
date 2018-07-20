@@ -21,7 +21,7 @@ TRAID coin is a PoW/PoS/Masternode hybrid cryptocurrency built on the Scrypt has
   </tr>
   <tr>
     <td colspan="2">Max Coin Supply</td>
-    <td colspan="2">252 000 000</td>
+    <td colspan="2">252 000 000 TRAID</td>
   </tr>
     <tr>
     <td colspan="2">Difficulty Retargeting</td>
